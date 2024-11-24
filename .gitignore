@@ -1,0 +1,7 @@
+__pycache__
+venv
+build
+upx-4.2.4-win64
+imageToLine.spec
+serch_img.py
+image_editer.py
